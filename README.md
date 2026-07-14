@@ -8,7 +8,7 @@
 I am a **Senior QA Engineer, SDET, and QA Consultant** with 15+ years of experience delivering robust quality engineering across enterprise domains like Banking, Fintech, and Healthcare. My career has been built on a deep, reliable mastery of functional testing and system validation, I am now seeking a **collaborative team** to help me transition into the frontier of **LLM Testing and AI-focused QA**.
 
 #### What I Bring to the Table:
-- **Quality & Domain Testing Expertise:** Over a decade of defining test strategies, identifying root causes, managing defect workflows, and validating high-risk enterprise setups like SWIFT banking systems.
+- **Quality & Domain Testing Expertise:** Over a decade of defining test strategies, identifying root causes, managing defect workflows, and validating high-risk enterprise applications.
 - **End-to-End API Validation:** Highly skilled in testing complex integrations, mapping critical business paths, and developing automated API suites using RestAssured and Postman
 - **Robust Automation:** Hands-on experience on test coverage and dropping manual regression overhead by up to 40% using automation tools.
 
