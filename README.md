@@ -40,7 +40,7 @@ Let’s connect if for further discussion!
 ---
 
 ### 📫 Let's Connect!
-- 💼 LinkedIn: [://linkedin.com](https://www.linkedin.com/in/shwetha-bavim)
+- 💼 LinkedIn: [https://www.linkedin.com/in/shwetha-bavim](https://www.linkedin.com/in/shwetha-bavim)
 - 📧 Email: shwetha.bavim@gmail.com
 - 🌏 Open to relocation opportunities across world.
 
